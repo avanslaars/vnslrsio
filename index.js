@@ -18,6 +18,10 @@ server.route([{
   handler: (request, reply) => reply.redirect('https://egghead.io/courses/build-your-first-production-quality-react-app')
 }, {
   method: 'GET',
+  path:'/redux',
+  handler: (request, reply) => reply.redirect('https://egghead.io/courses/build-a-react-app-with-redux')
+}, {
+  method: 'GET',
   path:'/ramda',
   handler: (request, reply) => reply.redirect('https://egghead.io/playlists/learn-ramda-js-ec318ad7')
 }, {
