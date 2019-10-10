@@ -1,6 +1,6 @@
 # Redirects from what the browser requests to what we serve
 /                   https://vanslaars.io
-/react              https://egghead.io/courses/build-your-first-production-quality-react-app
-/redux              https://egghead.io/courses/build-a-react-app-with-redux
-/ramda              https://egghead.io/playlists/learn-ramda-js-ec318ad7
-/egghead            https://egghead.io/instructors/andrew-van-slaars
+/react              https://egghead.io/courses/build-your-first-production-quality-react-app?af=5mx0ie
+/redux              https://egghead.io/courses/build-a-react-app-with-redux?af=5mx0ie
+/ramda              https://egghead.io/playlists/learn-ramda-js-ec318ad7?af=5mx0ie
+/egghead            https://egghead.io/instructors/andrew-van-slaars?af=5mx0ie
